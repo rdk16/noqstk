@@ -1,2 +1,3 @@
-<h1>x7436</h1>
-<p></p>
+```
+deno task start
+```
